@@ -9,6 +9,7 @@
 | 3   | Nadira Milha Nailul Fath          | 5025211253 |
 
 ## Result's Preview
+![Screen Shot 2022-12-20 at 19 11 37](https://user-images.githubusercontent.com/90663569/208664475-64dd436a-38ee-4cec-ae4e-41ab9170295c.png)
 
 ## Penjelasan
 

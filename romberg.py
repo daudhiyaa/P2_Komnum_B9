@@ -4,10 +4,8 @@ def f(x):
     return 1 / (1 + 9 + x)
 
 print("\n---------- INTEGRASI ROMBERG ----------")
-print("Masukkan batas bawah integrasi : ", end='')
-batas_bawah = int(input())
-print("Masukkan batas atas integrasi : ", end='')
-batas_atas = int(input())
+batas_bawah = int(input("Masukkan batas bawah integrasi : "))
+batas_atas = int(input("Masukkan batas atas integrasi : "))
 
 res = integrate.romberg(f, batas_bawah, batas_atas, show=True)
 print(res)
